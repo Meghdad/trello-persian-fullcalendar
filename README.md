@@ -1,2 +1,2 @@
 # trello-persian-fullcalendar
-a persian fullcalendar for trello.
+a Persian Fullcalendar for Trello.
